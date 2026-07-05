@@ -1,5 +1,6 @@
 class Solution {
 
+    // Function to reverse any given array based on the start and end index
     public int[] reverse(int[]nums, int start, int end) {
         while(start<end) {
             int temp = nums[start];
@@ -19,3 +20,6 @@ class Solution {
         nums = reverse(nums, 0, (len-1));
     }
 }
+
+
+// Topics -> Arrays, 2 pointers, reversal, observation
