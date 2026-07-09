@@ -18,3 +18,4 @@ class Solution {
         return el;
     }
 }
+// Topics -> Arrays, Hashing, Moore's Voting Algorithm, LC-169
