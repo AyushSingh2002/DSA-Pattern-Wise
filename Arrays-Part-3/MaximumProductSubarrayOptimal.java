@@ -20,4 +20,4 @@ class Solution {
         return maxProduct;
     }
 }
-// Topics -> Array, Kadane's Algorithm, LC-152
+// Topics -> Array, Cumulative Product, LC-152
