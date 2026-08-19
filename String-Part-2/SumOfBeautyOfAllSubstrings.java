@@ -21,4 +21,4 @@ class Solution {
         return answer;
     }
 }
-// LC - 1781, Brute Force Solution, Time Complexity - O(n^3), Space Complexity - O(n)
+// LC - 1781, Brute Force Solution, Time Complexity - O(n^2.26), Space Complexity - O(n)
