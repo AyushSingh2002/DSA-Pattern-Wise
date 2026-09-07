@@ -21,3 +21,4 @@ class Solution {
         return (int) answer;
     }
 }
+// Topics -> Math, Combinatorics, TC: O(log n), SC: O(1), LC-2466
